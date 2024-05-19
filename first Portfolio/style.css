@@ -68,8 +68,9 @@ transition: background-color 0.4s ,transform 0.5s ;
 .aboutus1{
     display: flex;
     width: 50%; height: 100%;
+    /* margin-bottom: 5%; */
     align-items: center;
-   margin-top:0.5%;
+   margin-top:3%;
     color: #212146;
     
 }
